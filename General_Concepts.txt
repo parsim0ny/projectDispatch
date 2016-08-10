@@ -1,4 +1,4 @@
-In the base game, I envision three main areas that players will have free rein to create and edit in, along with two lesser areas.
+In the base game, I envision three main areas that players will have free reign to create and edit in, along with two lesser areas.
 The three main areas are: Maps, Weapons, and Gamemodes.
 The two lesser areas are: Player-models and Items.
 
