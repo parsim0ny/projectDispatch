@@ -19,6 +19,7 @@ In-depth: WEAPONS
 
 In an attempt to keep things rather simplistic, weapons will have types. These types will be the following:
 - Handgun
+- Revolver
 - Rifle
 - Assault Rifle
 - Sub-Machine Gun
@@ -27,3 +28,4 @@ In an attempt to keep things rather simplistic, weapons will have types. These t
 - Rocket-Propelled Grenade Launcher
 - Melee
 
+Each will have components, animations, and premades inherent to the type.
