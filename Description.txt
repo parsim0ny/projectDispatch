@@ -1,0 +1,11 @@
+Project Dispatch: The FPS Creator
+
+The best way I could describe this project is RPG Maker for FPS games. From what I've seen this has not been done on this scale before.
+
+I believe that this has potential to make it big in both the indie and mainstream gaming world, if we do things just the right way.
+As this is going to be a team project, definitely feel free to chip in with your input.
+
+The design and implementation for this is going to be a massive undertaking, so you're either in or you're out.
+We have no time for halfways/maybes. My hope is to be finished with a bare-bones project in a year, and go from there.
+
+We will be developing in the Unity 5 engine, so I suggest that you go familiarize yourself with that if you have not done so already.
