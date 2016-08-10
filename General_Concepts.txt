@@ -29,3 +29,8 @@ In an attempt to keep things rather simplistic, weapons will have types. These t
 - Melee
 
 Each will have components, animations, and premades inherent to the type.
+Each weapon will have base stats, which are determined by components and can be muliplied or changed by the gamemode.
+
+In-depth: GAMEMODES
+
+Gamemodes and maps go hand-in-hand. In order to play a gamemode on a map, you must first apply a gamemode to the map. 
