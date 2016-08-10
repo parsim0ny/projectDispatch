@@ -26,11 +26,49 @@ In an attempt to keep things rather simplistic, weapons will have types. These t
 - Light Machine Gun
 - Grenade Launcher
 - Rocket-Propelled Grenade Launcher
+- Throwable
 - Melee
 
 Each will have components, animations, and premades inherent to the type.
 Each weapon will have base stats, which are determined by components and can be muliplied or changed by the gamemode.
 
+
 In-depth: GAMEMODES
 
-Gamemodes and maps go hand-in-hand. In order to play a gamemode on a map, you must first apply a gamemode to the map. 
+Gamemodes and maps go hand-in-hand. In order to play a gamemode on a map, you must first apply a gamemode to the map.
+What I mean by this is that you must choose the objective spawn (if applicable) as well as player spawns, in addition to any items.
+Gamemode creation will be much simpler than that of maps or weapons. It will be broken down into three parts:
+- Blacklist: A set of banned weapons, weapon parts, etc.
+- Options: Details not specific to the objective, such as teams, rounds, time limits, hit markers, hud elements, etc.
+- Objective: Logic tree of what a player or team needs to do in order to "win".
+
+
+In-depth: PLAYER-MODELS
+
+Player-models are how players appear in-game. The player can create their own player-models, with the premade and custom options.
+The customization will be one of the most complex categories, allowing the player to create an incredibly detailed character.
+The sub-areas of characters are as follows:
+- Height
+- Gender
+- Skin tone
+- Muscle tone/size
+- Hair style (with physics)
+- Hair color (by region)
+- Eye color
+- Facial features
+- Tattoos
+- Headgear
+- Shirt/jacket
+- Pants
+- Shoes
+- Accessories
+Some gamemodes may use custom player models, which will override the players' preferred models.
+
+
+In-depth: ITEMS
+
+Items are non-player, neutral entities that are independant of the map.
+Some common examples of these could be health-packs, ammo-kits, etc. Dropped weapons could also be counted as items.
+There won't be a whole lot of focus on item creation, as the premades should be enough for basic gamemodes.
+However, the option is there to create new or re-skinned items for a gamemode objective or other purpose.
+Item creation will include the model and its settings (e.g., what the thing should do when the player touches it).
