@@ -1,0 +1,29 @@
+In the base game, I envision three main areas that players will have free rein to create and edit in, along with two lesser areas.
+The three main areas are: Maps, Weapons, and Gamemodes.
+The two lesser areas are: Player-models and Items.
+
+For maps, there will be full premades, templates, and a start-from-scratch custom option.
+For weapons, there will be full premades, base weapons, and custom.
+For gamemodes, there will be premades and custom.
+For player-models, there will be full premades and custom.
+For items, there will be full premades and custom.
+For all areas, premades can also be used as templates.
+
+In-depth: MAPS
+
+Maps will have five sub-areas of design that the player can use. These will be floor, platform, wall, pillar, and prop.
+For all of these, there will be premades and custom. Premade or custom textures can be placed on all surfaces in maps.
+
+
+In-depth: WEAPONS
+
+In an attempt to keep things rather simplistic, weapons will have types. These types will be the following:
+- Handgun
+- Rifle
+- Assault Rifle
+- Sub-Machine Gun
+- Light Machine Gun
+- Grenade Launcher
+- Rocket-Propelled Grenade Launcher
+- Melee
+
